@@ -1,0 +1,10 @@
+---
+Language:                             Cpp
+BasedOnStyle:                         LLVM
+ColumnLimit:                          120
+AllowShortIfStatementsOnASingleLine:  WithoutElse
+AllowShortEnumsOnASingleLine:         false
+AlignConsecutiveMacros:               AcrossEmptyLinesAndComments
+IndentCaseLabels:                     true
+IndentGotoLabels:                     true
+SortIncludes:                         Never
